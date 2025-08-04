@@ -56,7 +56,7 @@ newsletterName: '',
 },
 externalAdReply: { 
 showAdAttribution: true,
-title: '𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻',
+title: '𝘼𝙉𝙂𝙀𝙇 - 𝘽𝙊𝙏',
 body: '',
 previewType: "PHOTO",
 thumbnailUrl: 'https://files.catbox.moe/f4ir6m.jpg',
